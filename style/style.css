@@ -1,0 +1,130 @@
+body{
+    background-color: rgba(227, 230, 232, 0.822);
+
+}
+
+div{
+    border: 5px double rgb(0, 0, 0) ;
+    padding: 40px;
+    margin: 40px;
+    background-color: rgba(162, 203, 213, 0.471);
+
+
+}
+p{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    
+}
+
+h1{
+    text-align: center;
+    font-family:Colonna MT ;
+    color: rgb(8, 49, 103);
+    border:  3px rgb(15, 15, 15);
+    font-size: 46px;
+    text-decoration: underline;
+}
+th,td{
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+table ,td ,th{
+    border: 2px  solid;
+    text-align: center;
+}
+
+tr:hover{
+color: brown;
+background-color: chartreuse;
+}
+
+#para{
+    text-align: center;
+    background-color: aqua;
+
+}
+
+#inti{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh; /* La hauteur minimum couvre tout l'écran */
+    font-family: Arial, sans-serif;
+    width: 100%;
+    max-width: 100%;
+    aspect-ratio: 10 / 5; /* Maintient un ratio d'écran standard pour les vidéos */
+
+}
+
+#Colombe{
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+   
+}
+
+#montagnes{
+    margin-left:0.5%;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+
+#mer{
+    margin-left: 50%;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family:Candara ;
+    color: rgba(8, 49, 103, 0.478);
+    font-size: 25px;
+}
+#ic{
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+#rr{
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+#is{
+    margin-left: 25%;
+        width: 50%;
+        height: 50%;
+        text-align: center
+}
+#mn{
+        text-align: center;
+        font-family:Colonna MT ;
+        color: rgb(8, 49, 103);
+        border:  3px rgb(15, 15, 15);
+        font-size: 46px;
+        text-decoration: underline;
+}
+#ay{
+    text-align: center;
+    color: black;
+    background-color: rgb(112, 143, 169);
+}
+#ih{
+    text-align: center;
+    color: black;
+    background-color: rgb(112, 143, 169);
+    font-size: 26px;
+}
